@@ -10,9 +10,15 @@ This project is a **Semantic Book Recommendation System** that suggests books ba
 
 Technologies Used
 Python: Core programming language.
+
 Gradio: For building the interactive dashboard.
+
 LangChain: For document loading and text splitting.
+
 Chroma: For semantic similarity search.
+
 OpenAI API: For embeddings.
+
 Hugging Face Transformers: For emotion analysis.
+
 Pandas & NumPy: For data processing.
