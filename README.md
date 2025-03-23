@@ -23,3 +23,8 @@ OpenAI API: For embeddings.
 Hugging Face Transformers: For emotion analysis.
 
 Pandas & NumPy: For data processing.
+
+
+<img src="https://drive.google.com/uc?id=1AoaVhvvgzSkZ3OuDrfdjR5DGN6b2xxF6" alt="Home Page" width="600">
+<img src="https://drive.google.com/uc?id=184_sIXsFVq_uD7FXHzV1VNl3aKbeu7d0" alt="Home Page" width="600">
+<img src="https://drive.google.com/uc?id=14QPeZAFAiXp1H1AOXOzBPY0wd_XEzGYb" alt="Home Page" width="600">
