@@ -8,7 +8,7 @@ This project is a **Semantic Book Recommendation System** that suggests books ba
 - **Emotion Analysis**: Integrates Hugging Face models to analyze emotional tones in book descriptions.
 - **Data Processing**: Cleans and processes book data for better recommendations.
 
-Technologies Used:
+# Technologies Used:
 
 Python: Core programming language.
 
